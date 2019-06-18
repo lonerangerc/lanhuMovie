@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["cinema"],{e37e:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"movie-main"},[e._v("\n    这是movie-main页面\n")])},i=[],c={name:"Movie",data:function(){return{}},methods:{}},o=c,s=t("17cc"),r=Object(s["a"])(o,a,i,!1,null,"2300da5d",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=cinema.f5dbeaed.js.map
