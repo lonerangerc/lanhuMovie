@@ -8,6 +8,7 @@ import 'vue-awesome/icons'
 import Icon from 'vue-awesome/components/Icon'
 import 'animate.css'
 
+
 Vue.config.productionTip = false
 Vue.component('v-icon', Icon)
 new Vue({
